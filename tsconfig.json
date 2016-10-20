@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "baseUrl": "./",
+        "paths": {
+            "jquery": ["jquery/dist/jquery.js"] 
+        },
+        "traceResolution": true
+    }, 
+    "include": ["src/**/*.ts"]
+}

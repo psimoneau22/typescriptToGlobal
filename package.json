@@ -1,0 +1,23 @@
+{
+  "name": "ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^2.0.33",
+    "gulp": "^3.9.1",
+    "gulp-systemjs-builder": "^0.15.0",
+    "gulp-typescript": "^3.0.2",
+    "typescript": "^2.0.3"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
