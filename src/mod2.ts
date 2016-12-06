@@ -6,3 +6,7 @@ export class Mod2 {
         return "im mod2 test" ;
     }
 }
+
+export function foo() {
+    console.log('foo')
+}
